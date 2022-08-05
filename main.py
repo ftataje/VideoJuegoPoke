@@ -8,7 +8,7 @@ pygame.init()
 
 pantalla = pygame.display.set_mode((800, 600))
 
-pygame.display.set_caption("Invasión Espacial")
+pygame.display.set_caption("Invasión Mankey")
 icono = pygame.image.load("pokebola.png")
 pygame.display.set_icon(icono)
 fondo = pygame.image.load("fondo001.jpg")
